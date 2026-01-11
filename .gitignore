@@ -1,0 +1,24 @@
+# Dependencies
+node_modules/
+venv/
+.venv/
+__pycache__/
+
+# Environment Variables (Sensitive)
+.env
+
+# Build Output
+dist/
+build/
+
+# IDEs
+.vscode/
+.idea/
+.DS_Store
+
+# Logs
+*.log
+backend_logs.txt
+
+# Uploaded Artifacts
+uploaded_image_*
